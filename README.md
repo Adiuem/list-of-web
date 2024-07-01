@@ -1,5 +1,5 @@
 # list-of-web
-Here's a list of 100 popular and useful website available on the internet, categorized for easy reference:
+Here's a list of 100 popular and useful repository available on the internet, categorized for easy reference:
 
 ### Machine Learning and Data Science
 1. [TensorFlow](https://github.com/tensorflow/tensorflow)
